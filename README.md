@@ -102,5 +102,3 @@ Demonstrations available via:
 ## ✅ Conclusion
 These projects demonstrate hands-on experience in **AI techniques**, applying **ML, NLP, and Computer Vision** to solve real-world problems.
 ---
-
-## 📂 Project Structure
