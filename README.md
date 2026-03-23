@@ -84,9 +84,16 @@ A collection of **Artificial Intelligence projects** demonstrating practical app
 ---
 
 ## 📹 Demo
-Demonstrations available via:  
-- **LinkedIn:** [Insert Link]  
-- **YouTube:** [Insert Link]  
+
+A demo video explaining these projects has been shared on LinkedIn as well as on Youtube.
+
+---
+
+## 🔗 Links
+
+- Demo Video :
+- Task 1 : [Artificial Intelligence Task 1](https://youtu.be/XqZMnylRYYs)
+- Task 2 : [Artificial Intelligence Task 2](https://youtu.be/YV8J2tArumI)  
 
 ---
 
